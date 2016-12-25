@@ -2,8 +2,8 @@
 
 Server IP:  23.247.25.237
 
-Server Port:  8838
+Server Port:  9001
 
-Password:  freefuckysj
+Password:  fuckgfw1234
 
 Encryption Method:  aes-256-cfb
